@@ -1,0 +1,24 @@
+h1{
+    color: red;
+
+}
+
+p {
+    font-family: 'Courier New', Courier, monospace;
+}
+li {
+    list-style-type: none;
+  }
+
+.parrafo1 {
+    font-size: 32px;
+}
+
+.importante{
+    color: orange;
+    font-weight: bold;
+}
+
+.muyimportante{
+    font-size: 62px;
+}
