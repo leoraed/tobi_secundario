@@ -4,8 +4,14 @@ h1{
 }
 
 p {
+    color: rgb(71, 66, 60);
     font-family: 'Courier New', Courier, monospace;
 }
+
+div {
+    color: green;
+}
+
 li {
     list-style-type: none;
   }
@@ -21,4 +27,8 @@ li {
 
 .muyimportante{
     font-size: 62px;
+}
+
+.azul {
+    color: blue;
 }
